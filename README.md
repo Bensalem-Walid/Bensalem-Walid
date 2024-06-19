@@ -5,7 +5,7 @@
 - 💻 Passionate about computer science and new technologies
 - 🎂 19 years old
 
-## 📂 Projects (:construction: Some project will come after :construction:)
+## 📂 Projects (🚧 Some project will come after 🚧)
 On this GitHub, I will showcase the projects I have worked on both at Epitech and independently, whether solo or in group.
   ⚠️Some projects don't have a note of 100% so not complete
 
